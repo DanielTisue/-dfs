@@ -1,4 +1,4 @@
-# D-T's
+# dfs t-shirts
 This is an ecommerce website geared towards selling t-shirts.
 
 ## Motivation
