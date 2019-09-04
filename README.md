@@ -18,8 +18,8 @@ Client expressed being tired of paying too many fees associated with sites such 
 * Purchase confirmations are sent via email. This also allows seller to collect user data for future marketing purposes. 
 
 ## API Reference
-Paypal: 
+Paypal: https://developer.paypal.com/docs/api/overview/
 
 
 #### Check it Out!
-https://www.dts.com
+url to be added soon - project still currently in development
